@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDo List RecyclerView</string>
+    <string name="enter_task">Enter Task</string>
+</resources>
